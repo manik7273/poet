@@ -1,0 +1,423 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-670998-21"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-670998-21');
+</script>
+
+
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="csrf-token" content="CPGD93SeZHAn9H6Md0uyVrUWbDPfhRJXNELXfuoL">
+
+        <meta name="description" content="Moonlight is Waiting by Evelyn Judy Buehler">
+
+        <meta property="og:url"           content="https://www.poemist.com/evelyn-judy-buehler/moonlight-is-waiting" />
+        <meta property="og:type"          content="website" />
+        <meta property="og:title"         content="Moonlight is Waiting by Evelyn Judy Buehler | Poemist" />
+        <meta property="og:description"   content="Moonlight is Waiting by Evelyn Judy Buehler" />
+        <meta property="og:image"         content="https://www.poemist.com/images/logo.png" />
+
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:site" content="@poemistcom" />
+        <meta name="twitter:title" content="Moonlight is Waiting by Evelyn Judy Buehler | Poemist" />
+        <meta name="twitter:description" content="Moonlight is Waiting by Evelyn Judy Buehler" />
+        <meta name="twitter:image" content="https://www.poemist.com/images/logo.png" />
+
+        <link rel="image_src" type="image/jpeg" href="https://www.poemist.com/storage/poem-images/e/evelyn-judy-buehler/moonlight-is-waiting.jpg" />
+        
+        <title>Moonlight is Waiting by Evelyn Judy Buehler | Poemist</title>
+
+                
+        <link rel="preload" href="/css/app.css" as="style">
+        <link rel="preload" href="/images/loader-small.gif" as="image">
+        <link rel="preload" href="/images/loader-big.gif" as="image">
+        <link rel="stylesheet" href="/css/app.css">
+        <link rel="stylesheet" href="/css/app-extras.css">
+        <script src="/js/app.js"></script>
+
+
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({
+                    google_ad_client: "ca-pub-4285322827732375",
+                    enable_page_level_ads: true
+                });
+            </script>
+        
+        <script type="application/ld+json">
+            {
+                "@context": "http://schema.org",
+                "@type": "Organization",
+                "url": "https://www.poemist.com",
+                "logo": "https://www.poemist.com/images/logo.png"
+            }
+        </script>
+
+        <script type="application/ld+json">
+            {
+                "@context": "http://schema.org",
+                "@type": "WebSite",
+                "url": "https://www.poemist.com",
+                "potentialAction": {
+                    "@type": "SearchAction",
+                    "target": "https://www.poemist.com/search?q={search_term_string}",
+                    "query-input": "required name=search_term_string"
+                }
+            }
+        </script>
+
+        
+        <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png" />
+        <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png" />
+        <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png" />
+        <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png" />
+        <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png" />
+        <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png" />
+        <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+        <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32" />
+        <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16" />
+        <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    </head>
+    <body itemscope itemtype="http://schema.org/WebPage">
+
+        <header>
+
+            <nav class="navbar navbar-expand-md navbar-light flex-column">
+                <div class="container">
+                    <div class="navbar-header w-100">
+
+                        <a class="navbar-brand" href="https://www.poemist.com" title="Poemist - All About Poems and Poetry"><img src="/images/logo.png" alt="The Poem Database"></a>
+
+                        <button type="button" class="navbar-toggler float-right mr-2 mt-3" data-toggle="collapse" data-target="#mainnavigation" aria-controls="mainnavigation" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+
+                    </div>
+
+                    <form id="searchform" class="form-inline p-2 p-md-0" role="search" action="https://www.poemist.com/search" method="get">
+                        <div class="input-group">
+                            <input type="text" class="form-control form-control-sm shadow-none rounded-0 border-0" placeholder="Search" name="q" autofocus required>
+                            <button class="btn btn-sm btn-dark border-0 rounded-0" type="submit"><i class="fas fa-search"></i></button>
+
+                        </div>
+                    </form>
+
+                </div>
+
+                <div class="container">
+
+                    <div id="mainnavigation" class="navbar-collapse collapse p-2 p-md-0">
+                        <ul class="navbar-nav">
+                            <li class="nav-item"><a href="/poets" title="Poets" class="nav-link">Poets</a></li>
+                            <li class="nav-item"><a href="/#" title="Poems" class="nav-link">Poems</a></li>
+                        </ul>
+
+                        <ul class="navbar-nav ml-auto">
+                                                            <li class="nav-item"><a href="/signup" title="Sign Up" class="nav-link">Sign Up</a></li>
+                                <li class="nav-item"><a href="/login" title="Login" class="nav-link">Login</a></li>
+
+                                                    </ul>
+
+                    </div>
+                    <!--/#mainnavigation .navbar-collapse -->
+
+
+
+                </div>
+
+            </nav>
+        </header>
+
+
+        <div class="container whitebg" id="headAdvertisement">
+            <div class="row">
+                <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+                    
+                        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                        <!-- poemist - head banner -->
+                        <ins class="adsbygoogle"
+                             style="display:block"
+                             data-ad-client="ca-pub-4285322827732375"
+                             data-ad-slot="1090174563"
+                             data-ad-format="auto"></ins>
+                        <script>
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        </script>
+
+                                    </div>
+            </div>
+        </div>
+
+        
+    <div class="container whitebg">
+
+        <div class="row">
+            <div class="col-md-8 col-12">
+
+                <section id="poetInformation">
+    <div class="row">
+        <div class="col-md-12 col-12">
+            <ul id="poetNavigation">
+
+                <li><a href="https://www.poemist.com/evelyn-judy-buehler" title="Evelyn Judy Buehler" >POET'S PAGE</a></li>
+                                <li><a href="https://www.poemist.com/evelyn-judy-buehler/biography" title="Biography of Evelyn Judy Buehler" >BIOGRAPHY</a></li>
+                                                <li><a href="https://www.poemist.com/evelyn-judy-buehler/poems" title="Poems of Evelyn Judy Buehler"  class="active" >POEMS</a></li>
+                            </ul>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12 col-12">
+            <h1>Evelyn Judy Buehler</h1>
+
+                        <div id="poetLifeInfo">March 18, 1953 - Chicago</div>
+                        <hr />
+        </div>
+    </div>
+
+    </section>
+
+                <section id="poemInfo">
+
+
+                    <div class="row mt20">
+                        <div class="col-sm-10 col-12">
+                            <h1>Moonlight is Waiting</h1>
+                        </div>
+                        <div class="col-sm-2 col-12">
+                            <div class="poem-like-container">
+                                <button class="btn-poem-like   " data-poem="moonlight-is-waiting" data-poet="evelyn-judy-buehler" data-original-title="Like" data-toggle="tooltip" data-placement="bottom">
+                                                                            <i class="far fa-2x fa-heart"></i><span class="d-sm-block d-md-none">LIKE THIS POEM</span>
+                                    
+                                    <span class="poem-like-count  d-none "></span>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-md-12 col-12">
+
+                            In the almond trees down on Clear Lake farm,<br />
+A picnic between the rows, on grasses green,<br />
+And pink blossoms play in the carefree breeze,<br />
+With backdrop of blue skies and clouds of cream.<br />
+<br />
+Lost to each other and the golden afternoon,<br />
+While the sun drifts past in search of forever,<br />
+As hued birds joyously chirp their serenade,<br />
+Pale moonlight awaits its nightly endeavor!
+                        </div>
+                    </div>
+
+                    <div class="row mt30">
+                        <div class="col-md-12 col-12">
+                            <i class="fas fa-eye"></i> 13 Total read
+                        </div>
+                    </div>
+
+                    <div class="row mt30">
+                        <div class="col-md-12 col-12">
+
+                            <button class="btn btn-sm btn-outline-dark" id="showPoemStats" data-poem="moonlight-is-waiting" data-poet="evelyn-judy-buehler"><i class="fas fa-chart-bar"></i> &nbsp;&nbsp;Show Stats</button>
+
+
+                            <div class="sharebox">
+                                <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.poemist.com/evelyn-judy-buehler/moonlight-is-waiting" target="_blank" rel="nofollow" class="share-button facebook">
+                                    <svg style="width:24px;height:24px" viewBox="0 0 24 24">
+                                        <path d="M5,3H19A2,2 0 0,1 21,5V19A2,2 0 0,1 19,21H5A2,2 0 0,1 3,19V5A2,2 0 0,1 5,3M18,5H15.5A3.5,3.5 0 0,0 12,8.5V11H10V14H12V21H15V14H18V11H15V9A1,1 0 0,1 16,8H18V5Z" />
+                                    </svg>
+                                    <span>Share on Facebook</span>
+                                </a>
+
+                                <a href="http://twitter.com/share?text=Moonlight+is+Waiting+by+Evelyn+Judy+Buehler&url=https://www.poemist.com/evelyn-judy-buehler/moonlight-is-waiting&hashtags=poetry,poem,poemist" target="_blank" rel="nofollow" class="share-button twitter">
+                                    <svg style="width:24px;height:24px" viewBox="0 0 24 24">
+                                        <path d="M5,3H19A2,2 0 0,1 21,5V19A2,2 0 0,1 19,21H5A2,2 0 0,1 3,19V5A2,2 0 0,1 5,3M17.71,9.33C18.19,8.93 18.75,8.45 19,7.92C18.59,8.13 18.1,8.26 17.56,8.33C18.06,7.97 18.47,7.5 18.68,6.86C18.16,7.14 17.63,7.38 16.97,7.5C15.42,5.63 11.71,7.15 12.37,9.95C9.76,9.79 8.17,8.61 6.85,7.16C6.1,8.38 6.75,10.23 7.64,10.74C7.18,10.71 6.83,10.57 6.5,10.41C6.54,11.95 7.39,12.69 8.58,13.09C8.22,13.16 7.82,13.18 7.44,13.12C7.81,14.19 8.58,14.86 9.9,15C9,15.76 7.34,16.29 6,16.08C7.15,16.81 8.46,17.39 10.28,17.31C14.69,17.11 17.64,13.95 17.71,9.33Z" />
+                                    </svg>
+                                    <span>Share on Twitter</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                </section>
+
+                <hr>
+
+                <aside id="PoemStats" class="d-none">
+                    <div class="row mt20">
+                        <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+                            <div class="chart-container" style="position: relative; height:250px; width:100%;">
+                                <canvas id="statCanvas"></canvas>
+                            </div>
+                        </div>
+                    </div>
+                </aside>
+
+                                <aside id="RelatedSubjects">
+                    <div class="row mt20">
+                        <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+                            <h3><i class="fas fa-tag"></i> This poem is related to</h3>
+                            <ol>
+                                                                    <li>
+                                        <a href="/poems/quatrain">quatrain</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/poems/romance">romance</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/poems/nature">nature</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/poems/trees">trees</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/poems/beautiful">beautiful</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/poems/moon">moon</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/poems/imagery">imagery</a>
+                                    </li>
+                                                            </ol>
+                        </div>
+                    </div>
+                </aside>
+
+                <hr>
+
+                
+                <aside id="Comments">
+                    <div class="row mt20">
+                        <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+                            <h3><i class="fas fa-comments"></i> Comments about Moonlight is Waiting</h3>
+
+                                                            <div class="newComment">
+                                    <h3>Share your comments</h3>
+                                    <form id="commentForm" class="form-horizontal">
+
+                                                                                    <div class="row form-group">
+                                                <div class="col-md-6">
+                                                    <input id="name" type="text" class="form-control form-control-sm " name="name" placeholder="Name Surname" required>
+                                                    <span class="form-text small">OR <a href="/login">Login</a> to use your account and earn points.</span>
+                                                </div>
+                                            </div>
+                                        
+                                        <div class="row form-group">
+                                            <div class="col-md-12">
+                                                <textarea id="comment" type="text" class="form-control form-control-sm " name="comment" placeholder="Your Comments" required></textarea>
+                                                <span class="form-text small">Max. 500 chars</span>
+                                            </div>
+                                        </div>
+
+                                        <div class="row form-group">
+                                            <div class="col-md-12">
+                                                <button id="saveComment" type="button" class="btn btn-sm btn-primary" data-poem="moonlight-is-waiting" data-poet="evelyn-judy-buehler">
+                                                    Submit
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+
+                                                                    <div class="noComment">There is no comment yet. Be first to comment!</div>
+                                
+
+                                <ol class="commentList">
+                                                                    </ol>
+
+
+                            
+
+                        </div>
+                    </div>
+                </aside>
+
+
+            </div>
+
+            <div class="col-md-4 col-12">
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- poemist - content banner -->
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-4285322827732375"
+             data-ad-slot="7272439532"
+             data-ad-format="auto"></ins>
+        <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+            </div>
+
+
+        </div>
+
+    </div>
+
+
+
+
+
+
+
+        <footer>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-12">
+                        <ul class="float-left">
+                            <li><i class="fas fa-envelope"></i><a href="/contact" title="Contact Us">Contact Us</a></li>
+                            <li><i class="fas fa-lock"></i><a href="/privacypolicy" title="Privacy Policy">Privacy Policy</a></li>
+                            <li><i class="fas fa-file-alt"></i><a href="#" title="Terms of Use">Terms of Use</a></li>
+                        </ul>
+
+                        <ul class="float-right socialmedia">
+
+                            <li><a href="https://www.instagram.com/poemist_com" target="_blank" title="Follow us on Instagram"><i class="fab fa-instagram"></i></a></li>
+                            <li><a href="https://twitter.com/poemistcom" target="_blank" title="Follow us on Twitter"><i class="fab fa-twitter"></i></a></li>
+                            <li><a href="https://www.facebook.com/poemistcom/" target="_blank" title="Follow us on Facebook"><i class="fab fa-facebook-square"></i></a></li>
+                            <li><a href="https://www.pinterest.com/poemistcom/" target="_blank" title="Follow us on Pinterest"><i class="fab fa-pinterest"></i></a></li>
+                        </ul>
+                    </div>
+
+                </div>
+
+            </div>
+        </footer>
+
+        <!-- Modal HTML Markup -->
+        <div id="loginModal" class="modal fade" role="dialog">
+            <div class="modal-dialog modal-dialog-centered" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title">See more of Poemist by logging in</h5>
+
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <p class="lead text-xs-center">Login required!</p>
+
+                        <div class="lead text-xs-center"><a class="btn btn-primary btn-sm" href="/signup">Sign Up</a> or
+                            <a class="btn btn-success btn-sm" href="/login">Login</a></div>
+                    </div>
+
+                    <!--
+                    <div class="modal-footer">
+                        :-)
+                    </div>-->
+                </div><!-- /.modal-content -->
+            </div><!-- /.modal-dialog -->
+        </div><!-- /.modal -->    </body>
+</html>
+
+
